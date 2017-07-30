@@ -4,3 +4,4 @@ jupyter
 RISE
 tensorflow
 keras
+h5py
