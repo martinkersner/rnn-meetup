@@ -2,7 +2,7 @@
 
 Martin Kersner, <m.kersner@gmail.com>
 
-Presentation about Recurrent Neural Networks for Seoul AI Meetup on August 5, 2017. Presentation is within [Jupyter Notebook](https://github.com/martinkersner/rnn-meetup/blob/master/recurrent-neural-network.ipynb). At the meetup [example of training RNN for sum of two binary numbers](https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb) was presented as well.
+Presentation ([PDF](http://seoulai.com/presentations/RecurrentNeuralNetwork_20170805.pdf), [Jupyter notebook](https://github.com/martinkersner/rnn-meetup/blob/master/recurrent-neural-network.ipynb).) about Recurrent Neural Networks for Seoul AI Meetup on August 5, 2017. At the meetup [example of training RNN for sum of two binary numbers](https://github.com/martinkersner/rnn-meetup/blob/master/sum-binary-numbers.ipynb) was presented as well.
 
 ## Clone repository
 ```bash
